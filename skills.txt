@@ -1,0 +1,14 @@
+Skills to be learned in the future
+Postman
+Charles
+Fiddler
+Dev Tools
+VPN
+Android Studio
+ADB
+SQL
+Postgres
+Redis
+Jmeter
+Scrum
+Python
