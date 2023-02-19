@@ -1,1 +1,19 @@
+id: 1 
 
+Summary: Switcher's center exceeds the boundaries in the Cookies Settings block in the footer
+
+Priority: Medium
+
+Severity: Minor
+
+Environment: Win 10 Pro Chrome 109
+
+Steps to reproduce:   1. Navigate to Capital.com
+                      2. Change language to AR
+                      3. Click 'Cookies Settings' button in the footer
+                      4. Scroll down
+                      5. Pay attention to the two switchers
+                      
+Actual result: Switcher's center exceeds the boundaries in the Cookies Settings block in the footer
+
+Expected result: witcher's center is in the boundaries in the Cookies Settings block in the footer
